@@ -1,3 +1,3 @@
 # Melhore atletas
-< Nome >
+< Pelé >
 -----
